@@ -1,4 +1,4 @@
-<h1>DevSorteio</h1>
+<h1>DevSorteio🎲</h1>
 <br>
 <h2>Este projeto consiste em um sorteador de números. É só definir um número mínimo e um número máximo, que ele sorteará para você!</h2>
 <br>
