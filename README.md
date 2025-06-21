@@ -11,8 +11,8 @@
 <br>
 <h3>Aqui estão algumas imagens do projeto:</h3>
 <div>
-<img src= "" width= "500px"  alt= "imagem-projeto-desktop">
-<img src= "" height= "300px" alt= "imagem-projeto-responsivo">
+<img src= "https://github.com/NicollasAlmeida14/dev-sorteio/blob/master/assets/projeto-dev-sorteio-desktop.png?raw=true" width= "500px"  alt= "imagem-projeto-desktop">
+<img src= "https://github.com/NicollasAlmeida14/dev-sorteio/blob/master/assets/projeto-dev-sorteio-mobile.png?raw=true" height= "300px" alt= "imagem-projeto-responsivo">
 </div>
 <br>
 <br>
